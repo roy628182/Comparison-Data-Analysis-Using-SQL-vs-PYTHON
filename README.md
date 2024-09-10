@@ -4,9 +4,9 @@ A comparative analysis of data analysis using SQL and Python, highlighting the s
 Notebooks:
 
 - sql_data_analysis.ipynb: Data analysis using SQL
-- 
+  
 - python_data_analysis.ipynb: Data analysis using Python
-- 
+  
 - comparison.ipynb: Comparative analysis of SQL and Python
 
 Data:
